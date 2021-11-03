@@ -1,0 +1,50 @@
+ProductId,ProductName,ProductTypeId,PetId,ProductPrice
+1,Blue Buffalo Homestyle Recipe Adult Dog Food,1,2,2.59
+2,Purina Pro Plan Savor Adult Dog Food,1,2,1.70
+3,Nature's Recipe Adult Dog Food - Grain Free,1,2,9.99
+4,Pedigree Steak & Vegetable Adult Dog Food,1,2,24.99
+5,Classic Pat Cat Food 5.5oz,1,1,0.56
+6,Indoor Adult Cat Food - Chicken,1,1,37.99
+7,Fish Chips - Colorful ,2,5,86.42
+8,Box Fish Tank,3,5,40.26
+9,Horse Carrot,1,3,59.19
+10,Cow Shoes,8,4,47.29
+11,Steel Hamster Cage with Decoration,10,7,68.55
+12,Wooden Hamster Cage,10,7,37.22
+13,Easter Egg Dog Custom,8,2,99.07
+14,Hamster Red Spike Collar,9,7,7.84
+15,Horse Grass,1,3,82.81
+16,Takari,1,5,30.95
+17,Bird Cage,3,9,85.84
+18,Cow Pop Cleaner,5,4,47.89
+19,Cat Cute Collar,9,1,26.53
+20,Blue Fish Cat Food,1,1,89.01
+21,Blue Cheese,2,6,26.27
+22,Dog Steel Cage,10,2,11.3
+23,Cat Vacuum,4,1,74.38
+24,Mouse Trap,10,6,5.98
+25,Mouse Playgroud,3,6,17.99
+26,Cow Cow Costume,8,4,10.33
+27,Cat Fish Stick,2,1,33.15
+28,Mouse Mats,7,6,26.08
+29,Horse Barn,10,3,5.03
+30,Hamster Stick,2,7,4.37
+31,Bird Giant Cage,10,9,49.02
+32,Cow Grass,1,4,13.98
+33,Dog Plastic Litter Box,2,5,49.49
+34,Mouse Litter Box,5,6,74.34
+35,Rat Mats,7,6,76.79
+36,Turtle Clothes,8,8,39.34
+37,Horse Big Litter Cleaner,6,3,98.72
+38,Trutle Collar,9,8,40
+39,Mouse Mini Litter,6,6,23.88
+40,Fish Bowl Tanks,3,5,21.14
+41,Cow Little Stick for Attraction,2,4,67.44
+42,Bird Litter Absorber,6,9,29.96
+43,Cat Lovely Hat,8,1,47.85
+44,Reptile Sleeping Mats,7,8,94.51
+45,Mouse Hole Cage,3,6,54.3
+46,Tadokoro Fish Chips,1,5,98.13
+47,Hamster Sun Seed,1,7,51.08
+48,Horse Saddle,8,3,57.58
+49,Hamster Drainer,4,7,70.34
